@@ -1,0 +1,20 @@
+DELIMITER
+Desktop
+Documents
+download.php?xampp-linux-1.7.3a.tar.gz
+Downloads
+END
+examples.desktop
+<invalid path>
+<invalid path>.layout
+list.txt
+Music
+myshell.sh
+myshell.sh~
+Pictures
+Public
+skype-ubuntu-precise_4.1.0.20-1_amd64.deb
+skype-ubuntu-precise_4.1.0.20-1_i386.deb
+skype-ubuntu-precise_4.1.0.20-1_i386.deb.1
+Templates
+Videos
