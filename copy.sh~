@@ -1,3 +1,0 @@
-cp -r ~/assignments/public_html ~/
-mv ~/assignments/public_html ~/
-mv ~/ ~/assignments/public_html
