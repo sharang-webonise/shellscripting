@@ -1,4 +1,0 @@
-for file in $(ls);
-do 
-	mv -f file ./public_html/
-done
